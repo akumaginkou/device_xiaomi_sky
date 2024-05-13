@@ -588,5 +588,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
+	
+# Google Camera Go
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
 
 
